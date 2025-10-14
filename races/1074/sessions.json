@@ -700,6 +700,7 @@
           "best_lap_time_raw": "1:55.360",
           "best_lap_ms": 115360,
           "position": null,
+          "laps": 23,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q1.csv"
         },
@@ -710,6 +711,7 @@
           "best_lap_time_raw": "1:53.161",
           "best_lap_ms": 113161,
           "position": null,
+          "laps": 24,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q1.csv"
         },
@@ -720,6 +722,7 @@
           "best_lap_time_raw": "1:55.602",
           "best_lap_ms": 115602,
           "position": null,
+          "laps": 15,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q1.csv"
         },
@@ -730,6 +733,7 @@
           "best_lap_time_raw": "1:54.404",
           "best_lap_ms": 114404,
           "position": null,
+          "laps": 20,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q1.csv"
         },
@@ -740,6 +744,7 @@
           "best_lap_time_raw": "1:56.226",
           "best_lap_ms": 116226,
           "position": null,
+          "laps": 9,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q1.csv"
         },
@@ -750,6 +755,7 @@
           "best_lap_time_raw": "1:56.083",
           "best_lap_ms": 116083,
           "position": null,
+          "laps": 7,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q1.csv"
         },
@@ -760,6 +766,7 @@
           "best_lap_time_raw": "1:55.103",
           "best_lap_ms": 115103,
           "position": null,
+          "laps": 23,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q1.csv"
         },
@@ -770,6 +777,7 @@
           "best_lap_time_raw": "1:56.337",
           "best_lap_ms": 116337,
           "position": null,
+          "laps": 9,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q1.csv"
         },
@@ -780,6 +788,7 @@
           "best_lap_time_raw": "1:54.559",
           "best_lap_ms": 114559,
           "position": null,
+          "laps": 22,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q1.csv"
         },
@@ -790,6 +799,7 @@
           "best_lap_time_raw": "1:53.057",
           "best_lap_ms": 113057,
           "position": null,
+          "laps": 20,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q1.csv"
         },
@@ -800,6 +810,7 @@
           "best_lap_time_raw": "1:54.129",
           "best_lap_ms": 114128,
           "position": null,
+          "laps": 20,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q1.csv"
         },
@@ -810,6 +821,7 @@
           "best_lap_time_raw": "1:55.606",
           "best_lap_ms": 115606,
           "position": null,
+          "laps": 24,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q1.csv"
         },
@@ -820,6 +832,7 @@
           "best_lap_time_raw": "1:54.633",
           "best_lap_ms": 114633,
           "position": null,
+          "laps": 17,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q1.csv"
         },
@@ -830,6 +843,7 @@
           "best_lap_time_raw": "1:55.629",
           "best_lap_ms": 115628,
           "position": null,
+          "laps": 15,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q1.csv"
         },
@@ -840,6 +854,7 @@
           "best_lap_time_raw": "1:57.532",
           "best_lap_ms": 117532,
           "position": null,
+          "laps": 8,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q1.csv"
         },
@@ -850,6 +865,7 @@
           "best_lap_time_raw": "1:55.914",
           "best_lap_ms": 115914,
           "position": null,
+          "laps": 24,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q1.csv"
         },
@@ -860,6 +876,7 @@
           "best_lap_time_raw": "1:56.985",
           "best_lap_ms": 116985,
           "position": null,
+          "laps": 7,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q1.csv"
         },
@@ -870,6 +887,7 @@
           "best_lap_time_raw": "1:55.736",
           "best_lap_ms": 115735,
           "position": null,
+          "laps": 16,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q1.csv"
         },
@@ -880,6 +898,7 @@
           "best_lap_time_raw": "1:55.314",
           "best_lap_ms": 115314,
           "position": null,
+          "laps": 23,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q1.csv"
         },
@@ -890,6 +909,7 @@
           "best_lap_time_raw": "1:55.375",
           "best_lap_ms": 115375,
           "position": null,
+          "laps": 14,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q1.csv"
         }
@@ -907,6 +927,7 @@
           "best_lap_time_raw": "1:53.127",
           "best_lap_ms": 113127,
           "position": null,
+          "laps": null,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q3.csv"
         },
@@ -917,6 +938,7 @@
           "best_lap_time_raw": "1:52.691",
           "best_lap_ms": 112691,
           "position": null,
+          "laps": null,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q3.csv"
         },
@@ -927,6 +949,7 @@
           "best_lap_time_raw": "1:54.380",
           "best_lap_ms": 114380,
           "position": null,
+          "laps": null,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q3.csv"
         },
@@ -937,6 +960,7 @@
           "best_lap_time_raw": "1:52.818",
           "best_lap_ms": 112818,
           "position": null,
+          "laps": null,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q3.csv"
         },
@@ -947,6 +971,7 @@
           "best_lap_time_raw": "1:54.006",
           "best_lap_ms": 114006,
           "position": null,
+          "laps": null,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q3.csv"
         },
@@ -957,6 +982,7 @@
           "best_lap_time_raw": "1:53.219",
           "best_lap_ms": 113219,
           "position": null,
+          "laps": null,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q3.csv"
         },
@@ -967,6 +993,7 @@
           "best_lap_time_raw": "1:52.723",
           "best_lap_ms": 112723,
           "position": null,
+          "laps": null,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q3.csv"
         },
@@ -977,6 +1004,7 @@
           "best_lap_time_raw": "1:52.343",
           "best_lap_ms": 112343,
           "position": null,
+          "laps": null,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q3.csv"
         },
@@ -987,6 +1015,7 @@
           "best_lap_time_raw": "1:53.546",
           "best_lap_ms": 113545,
           "position": null,
+          "laps": null,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q3.csv"
         },
@@ -997,6 +1026,7 @@
           "best_lap_time_raw": "1:54.012",
           "best_lap_ms": 114012,
           "position": null,
+          "laps": null,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q3.csv"
         },
@@ -1007,6 +1037,7 @@
           "best_lap_time_raw": "1:54.211",
           "best_lap_ms": 114211,
           "position": null,
+          "laps": null,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q3.csv"
         },
@@ -1017,6 +1048,7 @@
           "best_lap_time_raw": "1:53.942",
           "best_lap_ms": 113942,
           "position": null,
+          "laps": null,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q3.csv"
         },
@@ -1027,6 +1059,7 @@
           "best_lap_time_raw": "1:54.370",
           "best_lap_ms": 114370,
           "position": null,
+          "laps": null,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q3.csv"
         },
@@ -1037,6 +1070,7 @@
           "best_lap_time_raw": "1:53.848",
           "best_lap_ms": 113848,
           "position": null,
+          "laps": null,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q3.csv"
         },
@@ -1047,6 +1081,7 @@
           "best_lap_time_raw": "1:55.518",
           "best_lap_ms": 115518,
           "position": null,
+          "laps": null,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q3.csv"
         }
@@ -1064,6 +1099,7 @@
           "best_lap_time_raw": "1:49.966",
           "best_lap_ms": 109966,
           "position": null,
+          "laps": null,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q3.csv"
         },
@@ -1074,6 +1110,7 @@
           "best_lap_time_raw": "1:49.466",
           "best_lap_ms": 109466,
           "position": null,
+          "laps": null,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q3.csv"
         },
@@ -1084,6 +1121,7 @@
           "best_lap_time_raw": "1:49.434",
           "best_lap_ms": 109434,
           "position": null,
+          "laps": null,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q3.csv"
         },
@@ -1094,6 +1132,7 @@
           "best_lap_time_raw": "1:51.573",
           "best_lap_ms": 111573,
           "position": null,
+          "laps": null,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q3.csv"
         },
@@ -1104,6 +1143,7 @@
           "best_lap_time_raw": "1:49.583",
           "best_lap_ms": 109583,
           "position": null,
+          "laps": null,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q3.csv"
         },
@@ -1114,6 +1154,7 @@
           "best_lap_time_raw": "1:51.395",
           "best_lap_ms": 111395,
           "position": null,
+          "laps": null,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q3.csv"
         },
@@ -1124,6 +1165,7 @@
           "best_lap_time_raw": "1:49.412",
           "best_lap_ms": 109412,
           "position": null,
+          "laps": null,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q3.csv"
         },
@@ -1134,6 +1176,7 @@
           "best_lap_time_raw": "1:51.211",
           "best_lap_ms": 111211,
           "position": null,
+          "laps": null,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q3.csv"
         },
@@ -1144,6 +1187,7 @@
           "best_lap_time_raw": "1:50.584",
           "best_lap_ms": 110584,
           "position": null,
+          "laps": null,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q3.csv"
         },
@@ -1154,6 +1198,7 @@
           "best_lap_time_raw": "1:51.983",
           "best_lap_ms": 111983,
           "position": null,
+          "laps": null,
           "year": 2022,
           "source_name": "R1074_2022_GP17_Q3.csv"
         }
@@ -1172,7 +1217,8 @@
           "best_lap_ms": 109966,
           "position": 5,
           "year": 2022,
-          "source_name": "grille_2022.csv"
+          "source_name": "grille_2022.csv",
+          "total_laps_q1q4": 23
         },
         {
           "race_id": 1074,
@@ -1182,7 +1228,8 @@
           "best_lap_ms": 109466,
           "position": 3,
           "year": 2022,
-          "source_name": "grille_2022.csv"
+          "source_name": "grille_2022.csv",
+          "total_laps_q1q4": 24
         },
         {
           "race_id": 1074,
@@ -1192,7 +1239,8 @@
           "best_lap_ms": 114380,
           "position": 13,
           "year": 2022,
-          "source_name": "grille_2022.csv"
+          "source_name": "grille_2022.csv",
+          "total_laps_q1q4": 15
         },
         {
           "race_id": 1074,
@@ -1202,7 +1250,8 @@
           "best_lap_ms": 109434,
           "position": 2,
           "year": 2022,
-          "source_name": "grille_2022.csv"
+          "source_name": "grille_2022.csv",
+          "total_laps_q1q4": 20
         },
         {
           "race_id": 1074,
@@ -1212,7 +1261,8 @@
           "best_lap_ms": 116226,
           "position": 16,
           "year": 2022,
-          "source_name": "grille_2022.csv"
+          "source_name": "grille_2022.csv",
+          "total_laps_q1q4": 9
         },
         {
           "race_id": 1074,
@@ -1222,7 +1272,8 @@
           "best_lap_ms": 116083,
           "position": 15,
           "year": 2022,
-          "source_name": "grille_2022.csv"
+          "source_name": "grille_2022.csv",
+          "total_laps_q1q4": 7
         },
         {
           "race_id": 1074,
@@ -1232,7 +1283,8 @@
           "best_lap_ms": 111573,
           "position": 9,
           "year": 2022,
-          "source_name": "grille_2022.csv"
+          "source_name": "grille_2022.csv",
+          "total_laps_q1q4": 23
         },
         {
           "race_id": 1074,
@@ -1242,7 +1294,8 @@
           "best_lap_ms": 116337,
           "position": 17,
           "year": 2022,
-          "source_name": "grille_2022.csv"
+          "source_name": "grille_2022.csv",
+          "total_laps_q1q4": 9
         },
         {
           "race_id": 1074,
@@ -1252,7 +1305,8 @@
           "best_lap_ms": 109583,
           "position": 4,
           "year": 2022,
-          "source_name": "grille_2022.csv"
+          "source_name": "grille_2022.csv",
+          "total_laps_q1q4": 22
         },
         {
           "race_id": 1074,
@@ -1262,7 +1316,8 @@
           "best_lap_ms": 111395,
           "position": 8,
           "year": 2022,
-          "source_name": "grille_2022.csv"
+          "source_name": "grille_2022.csv",
+          "total_laps_q1q4": 20
         },
         {
           "race_id": 1074,
@@ -1272,7 +1327,8 @@
           "best_lap_ms": 109412,
           "position": 1,
           "year": 2022,
-          "source_name": "grille_2022.csv"
+          "source_name": "grille_2022.csv",
+          "total_laps_q1q4": 20
         },
         {
           "race_id": 1074,
@@ -1282,7 +1338,8 @@
           "best_lap_ms": 111211,
           "position": 7,
           "year": 2022,
-          "source_name": "grille_2022.csv"
+          "source_name": "grille_2022.csv",
+          "total_laps_q1q4": 24
         },
         {
           "race_id": 1074,
@@ -1292,7 +1349,8 @@
           "best_lap_ms": 114012,
           "position": 20,
           "year": 2022,
-          "source_name": "grille_2022.csv"
+          "source_name": "grille_2022.csv",
+          "total_laps_q1q4": 17
         },
         {
           "race_id": 1074,
@@ -1302,7 +1360,8 @@
           "best_lap_ms": 114211,
           "position": 11,
           "year": 2022,
-          "source_name": "grille_2022.csv"
+          "source_name": "grille_2022.csv",
+          "total_laps_q1q4": 15
         },
         {
           "race_id": 1074,
@@ -1312,7 +1371,8 @@
           "best_lap_ms": 117532,
           "position": 19,
           "year": 2022,
-          "source_name": "grille_2022.csv"
+          "source_name": "grille_2022.csv",
+          "total_laps_q1q4": 8
         },
         {
           "race_id": 1074,
@@ -1322,7 +1382,8 @@
           "best_lap_ms": 110584,
           "position": 6,
           "year": 2022,
-          "source_name": "grille_2022.csv"
+          "source_name": "grille_2022.csv",
+          "total_laps_q1q4": 24
         },
         {
           "race_id": 1074,
@@ -1332,7 +1393,8 @@
           "best_lap_ms": 116985,
           "position": 18,
           "year": 2022,
-          "source_name": "grille_2022.csv"
+          "source_name": "grille_2022.csv",
+          "total_laps_q1q4": 7
         },
         {
           "race_id": 1074,
@@ -1342,7 +1404,8 @@
           "best_lap_ms": 114370,
           "position": 12,
           "year": 2022,
-          "source_name": "grille_2022.csv"
+          "source_name": "grille_2022.csv",
+          "total_laps_q1q4": 16
         },
         {
           "race_id": 1074,
@@ -1352,7 +1415,8 @@
           "best_lap_ms": 111983,
           "position": 10,
           "year": 2022,
-          "source_name": "grille_2022.csv"
+          "source_name": "grille_2022.csv",
+          "total_laps_q1q4": 23
         },
         {
           "race_id": 1074,
@@ -1362,7 +1426,8 @@
           "best_lap_ms": 115518,
           "position": 14,
           "year": 2022,
-          "source_name": "grille_2022.csv"
+          "source_name": "grille_2022.csv",
+          "total_laps_q1q4": 14
         }
       ]
     },
